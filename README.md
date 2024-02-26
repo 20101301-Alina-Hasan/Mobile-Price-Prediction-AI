@@ -1,6 +1,6 @@
 # CSE422: Artificial Intelligence
 
-Mobile price preditcion using:
+Mobile price prediction using:
 * K-Nearest Neighbor
 * Logistic Regression
 * Naive Bayes
@@ -8,4 +8,4 @@ Mobile price preditcion using:
 
 The results are illustrated as follows: 
 
-[Accuracy V Algorithm](Accuracy_against_Algorithm.png)
+![Accuracy V Algorithm](Accuracy_against_Algorithm.png)
