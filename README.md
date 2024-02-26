@@ -12,4 +12,4 @@ The results of the study are illustrated as follows:
 
 ![Accuracy V Algorithm](Accuracy_against_Algorithm.png)
 
-To learn more read our report: [Lab Report on Mobile Price Prediction](https://github.com/20101301-Alina-Hasan/Mobile-Price-Prediction-AI/blob/fdf4f28eb345d65392714d30c1b687eac3ea8ca4/Lab%20Report_%20Mobile%20Price%20Prediction.pdf)
+To learn more read up on it in our report: [Lab Report on Mobile Price Prediction](https://github.com/20101301-Alina-Hasan/Mobile-Price-Prediction-AI/blob/fdf4f28eb345d65392714d30c1b687eac3ea8ca4/Lab%20Report_%20Mobile%20Price%20Prediction.pdf)
