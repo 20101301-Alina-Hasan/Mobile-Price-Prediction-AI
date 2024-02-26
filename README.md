@@ -8,4 +8,4 @@ Mobile price preditcion using:
 
 The results are illustrated as follows: 
 
-[Accuracy V Algorithm](Accuracy_V_Agorithm.png)
+[Accuracy V Algorithm]()
