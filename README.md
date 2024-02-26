@@ -2,7 +2,7 @@
 
 Mobile phones are available in a wide range of costs, features such as internal memory or battery power, and other criteria. A key component of consumer strategy is the estimate and forecast of prices. Our study focuses on training machine learning models using readily accessible information on the numerous features and price ranges of mobile phones in the market to make the prices of newer products determinable. The models were trained on the [Mobile Price Classification](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification) dataset provided on *Kaggle* by *Abhishek Sharma*, a  *Maropost* Data Scientist.
 
-The machine learning models used are provided below:
+The machine learning models used in our Jupyter Notebook are provided below:
 * K-Nearest Neighbor
 * Logistic Regression
 * Naive Bayes
